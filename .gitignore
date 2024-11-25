@@ -1,0 +1,22 @@
+# Ignorar carpetas de dependencias
+node_modules/
+
+# Ignorar entornos virtuales de Python
+venv/
+__pycache__/
+
+# Archivos de configuración del editor
+.vscode/
+.idea/
+
+# Archivos generados por el sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de compilación o distribución
+dist/
+build/
+
+# Archivos de log y temporales
+*.log
+*.tmp
